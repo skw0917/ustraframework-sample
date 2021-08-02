@@ -46,7 +46,7 @@ export default async () => {
         title: '',
       },
       generation: {
-        generateDirPath: '../../../back/root/bo/src/main/resources/static',
+        generateDirPath: '../../../back/root/fo/src/main/resources/static',
         generateProfiles: [env.Profile.DEV, env.Profile.STAGING, env.Profile.PRODUCTION],
       },
     },
